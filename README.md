@@ -2,7 +2,12 @@
   Since the model size is larger than 25MB, it can not be uploaded to github.
   I put it on the cloud disk and attach a link here.
   https://jbox.sjtu.edu.cn/l/CH54iZ
-   
+  
+# How to use
+  The main part of my codes locates in My_agent_big.ipynb
+  Simply running through the code will see the result.(Containing data generation, model construction and model training.)
+  The model it use is in the link I attached above.
+
 # 2048-api
 A 2048 game api for training supervised learning (imitation learning) or reinforcement learning agents
 
