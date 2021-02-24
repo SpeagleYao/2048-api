@@ -66,3 +66,5 @@ The code is under Apache-2.0 License.
 
 # For EE369 students from SJTU only
 Please read course project [requirements](EE369.md) and [description](Project2048.pdf). 
+
+[Top](#readme)
