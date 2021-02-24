@@ -4,7 +4,7 @@
   https://jbox.sjtu.edu.cn/l/CH54iZ
 
 # Final Report
-  [Final Report](/Final Report.pdf)
+  [Final Report](./Final Report.pdf)
   
 
 # How to use
