@@ -3,10 +3,6 @@
   I put it on the cloud disk and attach a link here.
   https://jbox.sjtu.edu.cn/l/CH54iZ
 
-# Final Report
-  [Final Report](Final Report.pdf)
-  
-
 # How to use
   The main part of my codes locates in My_agent_big.ipynb
   Simply running through the code will see the result.(Containing data generation, model construction and model training.)
